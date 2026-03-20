@@ -1,4 +1,4 @@
-{
+[
     "armstrong": {
         "name": "Neil A. Armstrong",
         "description": "Armstrong was the first person to walk on the Moon as Commander of Apollo 11 on July 20, 1969. He was also a naval aviator, test pilot, and aeronautical engineer."
@@ -19,4 +19,4 @@
         "name": "James A. Lovell Jr.",
         "description": "Lovell flew four times in space, including as Command Module Pilot of Apollo 8 and Commander of the ill-fated Apollo 13 mission. He was the first person to fly into space four times."
     }
-}
+]
