@@ -1,27 +1,26 @@
 {
   "astronauts": [
     {
-      "id": "armstrong",
+      
       "name": "Neil A. Armstrong",
       "description": "Armstrong was the first person to walk on the Moon as Commander of Apollo 11 on July 20, 1969. He was also a naval aviator, test pilot, and aeronautical engineer."
     },
     {
-      "id": "aldrin",
+      
       "name": "Edwin E. Aldrin Jr.",
       "description": "Buzz Aldrin was one of the first two humans to land on the Moon alongside Neil Armstrong during Apollo 11 in 1969. He also flew on Gemini 12, performing three spacewalks."
     },
     {
-      "id": "collins",
+      
       "name": "Michael Collins",
       "description": "Collins served as Command Module Pilot for Apollo 11, orbiting the Moon 30 times while Armstrong and Aldrin made the first lunar landing. He was the first person to perform more than one spacewalk."
     },
     {
-      "id": "shepard",
+     
       "name": "Alan B. Shepard Jr.",
       "description": "Shepard was the first American to travel into space in 1961 and later walked on the Moon during Apollo 14 in 1971. He was one of the original NASA Mercury Seven astronauts."
     },
     {
-      "id": "lovell",
       "name": "James A. Lovell Jr.",
       "description": "Lovell flew four times in space, including as Command Module Pilot of Apollo 8 and Commander of the ill-fated Apollo 13 mission. He was the first person to fly into space four times."
     }
