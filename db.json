@@ -1,130 +1,22 @@
 {
-    "grissom": {
-        "name": "Virgil I. \"Gus\" Grissom",
-        "description": "One of the seven original NASA Project Mercury astronauts, Grissom was the second American to fly in space and the first NASA astronaut to fly in space twice. He died in the Apollo 1 fire on January 27, 1967."
-    },
-    "white": {
-        "name": "Edward H. White II",
-        "description": "On June 3, 1965, White became the first American to walk in space during the Gemini 4 mission. He died along with Grissom and Chaffee in the Apollo 1 fire on January 27, 1967."
-    },
-    "chaffee": {
-        "name": "Roger B. Chaffee",
-        "description": "A NASA astronaut in the Apollo program, Chaffee died in the Apollo 1 fire on January 27, 1967, before flying in space. He was a naval officer, aviator, and aeronautical engineer."
-    },
-    "schirra": {
-        "name": "Walter M. Schirra",
-        "description": "One of the original Mercury Seven astronauts, Schirra flew three missions: Mercury-Atlas 8, Gemini 6A, and Apollo 7. He was the only astronaut to fly in Mercury, Gemini, and Apollo."
-    },
-    "eisele": {
-        "name": "Donn F. Eisele",
-        "description": "A USAF officer and test pilot, Eisele served as Command Module Pilot on Apollo 7 in 1968. After NASA, he became Peace Corps country director for Thailand."
-    },
-    "cunningham": {
-        "name": "R. Walter Cunningham",
-        "description": "Cunningham was Lunar Module Pilot on Apollo 7 in 1968, NASA's third civilian astronaut after Neil Armstrong and Elliot See. He later became an entrepreneur and author."
-    },
-    "borman": {
-        "name": "Frank F. Borman II",
-        "description": "Borman commanded Apollo 8, the first mission to fly around the Moon, along with crewmates Jim Lovell and Bill Anders. He was awarded the Congressional Space Medal of Honor for the mission."
-    },
-    "lovell": {
-        "name": "James A. Lovell Jr.",
-        "description": "Lovell flew four times in space, including as Command Module Pilot of Apollo 8 and Commander of the ill-fated Apollo 13 mission. He was the first person to fly into space four times."
-    },
-    "anders": {
-        "name": "William A. Anders",
-        "description": "A crew member of Apollo 8 in December 1968, Anders was one of the first three people to orbit the Moon. He is best known for photographing the iconic Earthrise image."
-    },
-    "mcdivitt": {
-        "name": "James A. McDivitt",
-        "description": "McDivitt commanded Gemini 4, during which Ed White performed the first U.S. spacewalk, and Apollo 9, the first crewed flight test of the Lunar Module. He later served as Apollo Spacecraft Program Manager."
-    },
-    "scott": {
-        "name": "David R. Scott",
-        "description": "Scott was the seventh person to walk on the Moon as Commander of Apollo 15. He flew three times in space and is one of four surviving Moon walkers."
-    },
-    "schweickart": {
-        "name": "Russell L. Schweickart",
-        "description": "Schweickart was Lunar Module Pilot on Apollo 9 in 1969, performing the first in-space test of the portable life support system used by Moon-walking astronauts. He later played a key role in Skylab repairs."
-    },
-    "stafford": {
-        "name": "Thomas P. Stafford",
-        "description": "Stafford flew on Gemini 6A, Gemini 9, and commanded Apollo 10, the first mission to fly a Lunar Module in lunar orbit. He descended to within nine miles of the lunar surface."
-    },
-    "young": {
-        "name": "John W. Young",
-        "description": "Young became the ninth person to walk on the Moon as Commander of Apollo 16, and enjoyed the longest NASA career of any astronaut at 42 years. He is the only person to have piloted four different classes of spacecraft."
-    },
-    "cernan": {
-        "name": "Eugene A. Cernan",
-        "description": "Cernan was the eleventh person to walk on the Moon and, as the last to re-enter the Lunar Module on Apollo 17, the last person to walk on the Moon. He flew three missions: Gemini 9A, Apollo 10, and Apollo 17."
-    },
     "armstrong": {
         "name": "Neil A. Armstrong",
         "description": "Armstrong was the first person to walk on the Moon as Commander of Apollo 11 on July 20, 1969. He was also a naval aviator, test pilot, and aeronautical engineer."
-    },
-    "collins": {
-        "name": "Michael Collins",
-        "description": "Collins served as Command Module Pilot for Apollo 11, orbiting the Moon 30 times while Armstrong and Aldrin made the first lunar landing. He previously flew on Gemini 10 and was the first person to perform more than one spacewalk."
     },
     "aldrin": {
         "name": "Edwin E. Aldrin Jr.",
         "description": "Buzz Aldrin was one of the first two humans to land on the Moon alongside Neil Armstrong during Apollo 11 in 1969. He also flew on Gemini 12, performing three spacewalks."
     },
-    "conrad": {
-        "name": "Charles Conrad, Jr.",
-        "description": "Conrad became the third person to walk on the Moon during Apollo 12. He also commanded Skylab 2, repairing significant launch damage to the space station."
-    },
-    "gordon": {
-        "name": "Richard F. Gordon, Jr.",
-        "description": "Gordon flew as Command Module Pilot on Apollo 12, orbiting the Moon 45 times. He previously flew as Pilot on the Gemini 11 mission in 1966."
-    },
-    "bean": {
-        "name": "Alan L. Bean",
-        "description": "Bean was the fourth person to walk on the Moon during Apollo 12 in 1969. After retiring from NASA, he became a painter depicting space-related scenes from his own experiences."
-    },
-    "swigert": {
-        "name": "John L. Swigert, Jr.",
-        "description": "Swigert was a NASA astronaut who flew on the Apollo 13 mission, one of 24 astronauts to fly to the Moon. After leaving NASA, he was elected to Congress from Colorado but died before being sworn in."
-    },
-    "haise": {
-        "name": "Fred W. Haise, Jr.",
-        "description": "Haise flew as Lunar Module Pilot on the aborted Apollo 13 mission and was to have been the sixth person to walk on the Moon. He later flew Space Shuttle Approach and Landing Tests in 1977."
+    "collins": {
+        "name": "Michael Collins",
+        "description": "Collins served as Command Module Pilot for Apollo 11, orbiting the Moon 30 times while Armstrong and Aldrin made the first lunar landing. He was the first person to perform more than one spacewalk."
     },
     "shepard": {
         "name": "Alan B. Shepard Jr.",
         "description": "Shepard was the first American to travel into space in 1961 and later walked on the Moon during Apollo 14 in 1971. He was one of the original NASA Mercury Seven astronauts."
     },
-    "roosa": {
-        "name": "Stuart A. Roosa",
-        "description": "Roosa served as Command Module Pilot for Apollo 14, orbiting the Moon 34 times while Shepard and Mitchell walked on the surface. He was one of 24 men to travel to the Moon."
-    },
-    "mitchell": {
-        "name": "Edgar D. Mitchell",
-        "description": "Mitchell was the sixth person to walk on the Moon as Lunar Module Pilot of Apollo 14, spending nine hours on the lunar surface. He later founded the Institute of Noetic Sciences."
-    },
-    "worden": {
-        "name": "Alfred M. Worden",
-        "description": "Worden was Command Module Pilot for Apollo 15 in 1971, orbiting the Moon 74 times. He is one of only 24 people to have flown to the Moon."
-    },
-    "irwin": {
-        "name": "James B. Irwin",
-        "description": "Irwin served as Apollo Lunar Module Pilot for Apollo 15, becoming the eighth person to walk on the Moon. He was the first, and youngest, of the Moon-walking astronauts to die."
-    },
-    "mattingly": {
-        "name": "Thomas K. Mattingly II",
-        "description": "Mattingly flew as Command Module Pilot for Apollo 16, making 64 lunar orbits. Along with John Young, he is one of only two people to have both flown to the Moon and commanded a Space Shuttle mission."
-    },
-    "duke": {
-        "name": "Charles M. Duke Jr.",
-        "description": "Duke was the tenth and youngest person to walk on the Moon as Lunar Module Pilot for Apollo 16 in 1972. He logged 265 hours in space including over 20 hours of EVA."
-    },
-    "evans": {
-        "name": "Ronald E. Evans",
-        "description": "Evans was Command Module Pilot on Apollo 17 in December 1972, the last crewed mission to the Moon, orbiting it a record 75 times. He holds the record for most time spent in lunar orbit at 148 hours."
-    },
-    "schmitt": {
-        "name": "Harrison H. Schmitt",
-        "description": "Schmitt was the twelfth person to walk on the Moon as a crew member of Apollo 17 in 1972, and is the most recent living person to have done so. He is the only professional scientist to have visited the Moon."
+    "lovell": {
+        "name": "James A. Lovell Jr.",
+        "description": "Lovell flew four times in space, including as Command Module Pilot of Apollo 8 and Commander of the ill-fated Apollo 13 mission. He was the first person to fly into space four times."
     }
 }
