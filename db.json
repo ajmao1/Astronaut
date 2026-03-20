@@ -29,83 +29,83 @@
   
 "missions": [
     {
-      "id": 1,
+  
       "name": "Apollo 1",
       "crew": ["grissom", "white", "chaffee"],
       "description": "A cabin fire during a launch rehearsal on January 27, 1967 killed all three crew members and destroyed the command module."
     },
     {
-      "id": 7,
+      
       "name": "Apollo 7",
       "launchDate": "1968-10-11",
       "crew": ["schirra", "eisele", "cunningham"],
       "description": "The first crewed Apollo mission, it tested the command and service module in low Earth orbit."
     },
     {
-      "id": 8,
+      
       "name": "Apollo 8",
       "launchDate": "1968-12-21",
       "crew": ["borman", "lovell", "anders"],
       "description": "The first crewed spacecraft to orbit the Moon. The crew were the first humans to witness an Earthrise."
     },
     {
-      "id": 9,
+    
       "name": "Apollo 9",
       "launchDate": "1969-03-03",
       "crew": ["mcdivitt", "scott", "schweickart"],
       "description": "The first flight of the full Apollo spacecraft, qualifying the Lunar Module for lunar operations."
     },
     {
-      "id": 10,
+     
       "name": "Apollo 10",
       "launchDate": "1969-05-18",
       "crew": ["stafford", "young", "cernan"],
       "description": "A full dress rehearsal for the Moon landing, flying the Lunar Module to within 8.4 nautical miles of the surface."
     },
     {
-      "id": 11,
+    
       "name": "Apollo 11",
       "launchDate": "1969-07-16",
       "crew": ["armstrong", "collins", "aldrin"],
       "description": "The first mission to land humans on the Moon. Armstrong and Aldrin landed on July 20, 1969."
     },
     {
-      "id": 12,
+  
       "name": "Apollo 12",
       "launchDate": "1969-11-14",
       "crew": ["conrad", "gordon", "bean"],
       "description": "The second Moon landing, touching down in the Ocean of Storms four months after Apollo 11."
     },
     {
-      "id": 13,
+   
       "name": "Apollo 13",
       "launchDate": "1970-04-11",
       "crew": ["lovell", "swigert", "haise"],
       "description": "An oxygen tank failure forced the crew to abort the Moon landing and loop around the Moon to return safely."
     },
     {
-      "id": 14,
+
       "name": "Apollo 14",
       "launchDate": "1971-01-31",
       "crew": ["shepard", "roosa", "mitchell"],
       "description": "The third Moon landing and first in the lunar highlands, commanded by Alan Shepard."
     },
     {
-      "id": 15,
+      
       "name": "Apollo 15",
       "launchDate": "1971-07-26",
       "crew": ["scott", "worden", "irwin"],
       "description": "The first J mission and first use of the Lunar Roving Vehicle, exploring near Hadley Rille."
     },
     {
-      "id": 16,
+      
       "name": "Apollo 16",
       "launchDate": "1972-04-16",
       "crew": ["young", "mattingly", "duke"],
       "description": "The fifth Moon landing and second in the lunar highlands, lasting 11 days."
     },
     {
-      "id": 17,
+    
       "name": "Apollo 17",
       "launchDate": "1972-12-07",
       "crew": ["cernan", "evans", "schmitt"],
